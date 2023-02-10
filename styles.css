@@ -118,6 +118,7 @@ section.info-section>div.info-title {
 .images {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 60px;
 }
 
@@ -185,7 +186,7 @@ section.info-section>div.info-title {
     align-items: center;
     color: #ffffff;
     border-radius: 8px;
-    padding: 40px 0;
+    padding: 40px 16px;
     margin: 0 32px;
 }
 
